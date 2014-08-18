@@ -1,0 +1,29 @@
+{
+	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 11,
+	"gutter": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Emmet Css Snippets",
+		"ColorPicker",
+		"Origami",
+		"PlainTasks",
+		"Markdown Extended",
+		"Colorcoder",
+		"Git",
+		"SideBarEnhancements"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"rulers":
+	[
+		80
+	],
+	"theme": "Soda Dark 3.sublime-theme",
+	"word_wrap": true
+}
